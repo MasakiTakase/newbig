@@ -1,0 +1,11 @@
+新BIGOFFERイベントへの申し込みがありました。
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+【 お名前 】 @name
+【 Email 】 @mail
+【 universalName 】 @school
+【 LINE 】　@line
+【意気込み】@text
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
